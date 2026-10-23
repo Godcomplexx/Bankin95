@@ -1,0 +1,6 @@
+name = "bankin95-api"
+main = "src/worker.ts"
+compatibility_date = "2026-10-01"
+
+[vars]
+RUB_PER_USD = "90"
